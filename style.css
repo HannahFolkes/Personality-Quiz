@@ -1,0 +1,51 @@
+/* STYLE SECTIONING TAGS */
+body {
+    font-family:'Bubblegum Sans', sans-serif;
+    margin: 2em;
+    background-color: #390099;
+  }
+  
+  /* STYLE TEXT */
+  h1 { 
+    font-style: italic;
+    color: #E9E3E6;
+    font-family:'Bubblegum Sans', sans-serif;
+    font-size: 42px;
+  }
+  
+  h2 {
+    margin-top: 2em; 
+    color:#E9E3E6;
+    font-family:'EB Garamond', sans-serif;
+    font-size: 28px;
+  }
+  
+  /* STYLE FLEX CONTAINER */
+  .question {
+    display: flex;
+    margin-top: 2em;
+  }
+    
+  /* STYLE FLEX ITEM */
+  .answer-choice {
+    margin: 5px;
+  }
+  
+  /* STYLE IMAGES */
+  .answer-choice img {
+    height: 170px;
+    width: 200px;
+  }
+  
+  /* STYLE BUTTON */
+  button { 
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: bisque;
+    color: black;
+    font-family:'Poppins', sans-serif;
+    font-size: 18px;
+    display: flex;
+    
+  }
+    
